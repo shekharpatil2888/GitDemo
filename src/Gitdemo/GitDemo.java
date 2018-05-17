@@ -6,7 +6,7 @@ public class GitDemo {
 	
 	
 	{
-	System.out.println("git sucessfully working");
+	System.out.println("git working");
 	System.out.println("git ");
 	}
 
